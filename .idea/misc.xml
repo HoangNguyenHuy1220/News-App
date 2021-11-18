@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Programming/Android/NewsApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.15462962962962962" />
+        <entry key="..\:/Programming/Android/NewsApp/app/src/main/res/drawable/category_state_selector.xml" value="0.17760416666666667" />
+        <entry key="..\:/Programming/Android/NewsApp/app/src/main/res/drawable/ic_connection_error.xml" value="0.16666666666666666" />
+        <entry key="..\:/Programming/Android/NewsApp/app/src/main/res/drawable/icon_favorite_news.xml" value="0.17760416666666667" />
+        <entry key="..\:/Programming/Android/NewsApp/app/src/main/res/drawable/icon_save.xml" value="0.17760416666666667" />
+        <entry key="..\:/Programming/Android/NewsApp/app/src/main/res/drawable/icon_share.xml" value="0.17760416666666667" />
+        <entry key="..\:/Programming/Android/NewsApp/app/src/main/res/drawable/loading_img.xml" value="0.16666666666666666" />
+        <entry key="..\:/Programming/Android/NewsApp/app/src/main/res/drawable/text_shape.xml" value="0.17760416666666667" />
+        <entry key="..\:/Programming/Android/NewsApp/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Programming/Android/NewsApp/app/src/main/res/layout/fragment_article.xml" value="0.21" />
+        <entry key="..\:/Programming/Android/NewsApp/app/src/main/res/layout/fragment_breaking_news.xml" value="0.15729166666666666" />
+        <entry key="..\:/Programming/Android/NewsApp/app/src/main/res/layout/fragment_saved_news.xml" value="0.15" />
+        <entry key="..\:/Programming/Android/NewsApp/app/src/main/res/layout/fragment_search_news.xml" value="0.13703703703703704" />
+        <entry key="..\:/Programming/Android/NewsApp/app/src/main/res/layout/item_article_preview.xml" value="0.22" />
+        <entry key="..\:/Programming/Android/NewsApp/app/src/main/res/layout/item_article_saved.xml" value="0.1" />
+        <entry key="..\:/Programming/Android/NewsApp/app/src/main/res/layout/item_category_news.xml" value="0.1" />
+        <entry key="..\:/Programming/Android/NewsApp/app/src/main/res/menu/breaking_menu.xml" value="0.1" />
+        <entry key="..\:/Programming/Android/NewsApp/app/src/main/res/menu/news_menu.xml" value="0.1" />
+        <entry key="..\:/Programming/Android/NewsApp/app/src/main/res/menu/search_menu.xml" value="0.15729166666666666" />
+        <entry key="..\:/Programming/Android/NewsApp/app/src/main/res/menu/share_menu.xml" value="0.15729166666666666" />
+        <entry key="..\:/Programming/Android/NewsApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.15462962962962962" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

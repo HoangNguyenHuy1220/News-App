@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Newspaper</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="breaking_news">Breaking News</string>
+    <string name="saved_news">Saved News</string>
+    <string name="search_news">Search News</string>
+    <string name="search">Search...</string>
+    <string name="favorite">Favorite</string>
+    <string name="share_news">share news</string>
+    <string name="delete_article">Article has been unsaved</string>
+    <string name="undo">Undo</string>
+    <string name="save_article">Article saved !</string>
+    <string name="calendar">Calendar</string>
+    <string name="today">Today</string>
+
+    <string-array name="category_array">
+        <item>Technology</item>
+        <item>Business</item>
+        <item>Science</item>
+        <item>Entertainment</item>
+        <item>Health</item>
+        <item>Sport</item>
+        <item>Politics</item>
+    </string-array>
+</resources>
